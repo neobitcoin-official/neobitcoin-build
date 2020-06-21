@@ -37,9 +37,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dogecash/neobitcoin-build/issues"
+    "url": "https://github.com/neobitcoin-official/neobitcoin-build/issues"
   },
-  "homepage": "https://github.com/dogecash/neobitcoin-build",
+  "homepage": "https://github.com/neobitcoin-official/neobitcoin-build",
   "dependencies": {
     "brfs": "^1.4.3",
     "browserify": "^13.1.1",
